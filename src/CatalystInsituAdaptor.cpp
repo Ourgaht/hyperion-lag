@@ -4,7 +4,7 @@
 /*---------------------------------------------------------------------------*/
 /* "CatalystInsituAdaptor.hpp"                                               */
 /*                                                                           */
-/* TODO : description.                                                       */
+/* Interface between the Catalyst and the simulation                                                */
 /*---------------------------------------------------------------------------*/
 
 #include <iostream>
